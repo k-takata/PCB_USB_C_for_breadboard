@@ -3,7 +3,7 @@
 ## 概要
 
 USB Type-Cからブレッドボードに電源を供給するためのアダプターです。
-供給電圧は5Vと3.3Vをジャンパーで選択できます。
+供給電圧は5Vと3.3Vをジャンパーピンで選択できます。
 
 
 ## 使用したソフトウェア
@@ -36,10 +36,25 @@ KiCad 9.0
 |U1                   |   1|[NJM2845DL1-33](https://akizukidenshi.com/catalog/g/g111299/)|三端子レギュレーター 3.3V 800mA|
 
 
+## 作成
+
+以下の順で取り付けるのがお勧めです。
+
+* USBコネクター
+* 表面のチップ抵抗: R1, R2
+* 裏面のチップ部品: U1, C1
+* 表面右側の部品: J4, R3, D1
+* 裏面のピンヘッダー: J2, J3
+* 表面下側のピンソケット: J5
+* 表面左側の部品: SW1, F1
+
+J5とSW1は少し干渉するので、J5を少し削る必要があるかもしれません。
+
+
 ## 使用方法
 
 J2, J3をブレッドボードの電源ラインに挿入して使用します。J2, J3に供給する電圧はJ4にジャンパーピンを挿すことで選択します。
-J2, J3の端子は、USBコネクター側がプラス、反対側がマイナスです。向きに注意してください。
+J2, J3の端子は、USBコネクター側がプラス (シルクにはVDDの表示)、反対側がマイナス (シルクにはGNDの表示)です。向きに注意してください。
 
 SW1が電源スイッチです。電源がオンになっていれば、LEDが点灯します。
 
@@ -48,10 +63,7 @@ SW1が電源スイッチです。電源がオンになっていれば、LEDが�
 
 ## 完成品
 
-T.B.D.
-<!--
 [![完成品](https://raw.githubusercontent.com/k-takata/PCB_USB_C_for_breadboard/master/images/usb-c-adaptor-thumb.jpg)](https://raw.githubusercontent.com/k-takata/PCB_USB_C_for_breadboard/master/images/usb-c-adaptor.jpg)
--->
 
 ## License
 
