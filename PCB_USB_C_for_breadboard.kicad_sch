@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "USB Type-C Power Adaptor for Breadboard")
-		(date "2025-07-14")
+		(date "2025-08-02")
 		(rev "3")
 		(company "K.Takata")
 	)
@@ -5535,7 +5535,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 88.9 128.27 180)
+		(at 88.9 128.27 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5549,7 +5549,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "1k"
@@ -5558,11 +5558,11 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical"
-			(at 90.678 128.27 90)
+			(at 87.122 128.27 90)
 			(effects
 				(font
 					(size 1.27 1.27)
