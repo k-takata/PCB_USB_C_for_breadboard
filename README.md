@@ -24,7 +24,7 @@ KiCad 9.0
 | Reference           |個数|値    | 説明 |
 |---------------------|----|------|------|
 |C1                   |   1| 10μF|積層セラミックコンデンサー 3225M|
-|D1                   |   1|      |角形LED|
+|D1                   |   1|      |角形LED (あるいは3mm LEDや1608MチップLED)|
 |F1 (\*1)             |   1|  1.1A|[ポリヒューズ](https://akizukidenshi.com/catalog/g/g100507/)|
 |F2 (\*1)             |   1|  0.5A|[ポリヒューズ](https://akizukidenshi.com/catalog/g/g115300/)、表面実装|
 |J1                   |   1|      |[USB Type-Cコネクター](https://akizukidenshi.com/catalog/g/g114356/)|
@@ -45,7 +45,7 @@ KiCad 9.0
 以下の順で取り付けるのがお勧めです。
 
 * USBコネクター
-* 表面のチップ抵抗: R1, R2, (F2)
+* 表面のチップ抵抗: R1, R2, (F2, D1)
 * 裏面のチップ部品: U1, C1
 * 表面右側の部品: J4, R3, D1
 * 裏面のピンヘッダー: J2, J3
