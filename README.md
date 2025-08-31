@@ -30,7 +30,7 @@ KiCad 9.0
 |J1                   |   1|      |[USB Type-Cコネクター](https://akizukidenshi.com/catalog/g/g114356/)|
 |J2, J3               |   2|      |細ピンヘッダー 1x2、ブレッドボードへの挿入用、裏面に取り付け|
 |J4                   |   1|      |ピンヘッダー 1x3、出力電圧設定用|
-|J5                   |   1|      |細ピンソケット 1x5|
+|J5                   |   1|      |ピンソケット 1x5|
 |R1, R2               |   2|5.1kΩ|1608M|
 |R3                   |   1|  1kΩ|LED電流制限用、値はLEDに合わせて適宜調整|
 |SW1                  |   1|      |[スライドスイッチ](https://akizukidenshi.com/catalog/g/g115707/)|
