@@ -88,6 +88,18 @@ Rev. 1
 
 [![完成品](https://raw.githubusercontent.com/k-takata/PCB_USB_C_for_breadboard/master/images/usb-c-adaptor-thumb.jpg)](https://raw.githubusercontent.com/k-takata/PCB_USB_C_for_breadboard/master/images/usb-c-adaptor.jpg)
 
+左から順にRev. 1, Rev. 2, Rev. 3
+
+[![Rev. 1, 2, 3 の比較](https://raw.githubusercontent.com/k-takata/PCB_USB_C_for_breadboard/master/images/usb-c-adaptor-rev1-2-3-thumb.jpg)](https://raw.githubusercontent.com/k-takata/PCB_USB_C_for_breadboard/master/images/usb-c-adaptor-rev1-2-3.jpg)
+
+Rev. 1, Rev. 2, Rev. 3の裏面
+
+[![Rev. 1, 2, 3 の比較、裏面](https://raw.githubusercontent.com/k-takata/PCB_USB_C_for_breadboard/master/images/usb-c-adaptor-rev1-2-3-back-thumb.jpg)](https://raw.githubusercontent.com/k-takata/PCB_USB_C_for_breadboard/master/images/usb-c-adaptor-rev1-2-3-back.jpg)
+
+ブレッドボードに挿して使用している例 ([ESP32-C3-WROOM-02 Breakout Board](https://github.com/k-takata/PCB_esp32c3_breakout)とともに)
+
+[![使用例](https://raw.githubusercontent.com/k-takata/PCB_USB_C_for_breadboard/master/images/usb-c-adaptor-on-breadboard-thumb.jpg)](https://raw.githubusercontent.com/k-takata/PCB_USB_C_for_breadboard/master/images/usb-c-adaptor-on-breadboard.jpg)
+
 ## License
 
 CC0
