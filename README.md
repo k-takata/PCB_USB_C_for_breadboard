@@ -15,7 +15,7 @@ KiCad 9.0
 
 [![schema](https://raw.githubusercontent.com/k-takata/PCB_USB_C_for_breadboard/master/images/schema.png)](https://raw.githubusercontent.com/k-takata/PCB_USB_C_for_breadboard/master/images/schema.pdf)
 
-## 基板パターン図 (Rev. 1)
+## 基板パターン図
 
 ![PCB pattern](https://raw.githubusercontent.com/k-takata/PCB_USB_C_for_breadboard/master/images/pcb-pattern.png)
 
